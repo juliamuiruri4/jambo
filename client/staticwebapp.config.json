@@ -19,8 +19,7 @@
         "delete"
       ],
       "allowedRoles": [
-        "contributor",
-        "anonymous"
+        "contributor"
       ]
     },
     {
