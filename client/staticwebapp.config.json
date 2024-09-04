@@ -7,8 +7,7 @@
         "get"
       ],
       "allowedRoles": [
-        "authenticated",
-        "anonymous"
+        "authenticated"
       ]
     },
     {
