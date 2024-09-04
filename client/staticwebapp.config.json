@@ -14,13 +14,14 @@
     {
       "route": "/api/*",
       "methods": [
-        "PUT",
-        "POST",
-        "PATCH",
-        "DELETE"
+        "put",
+        "post",
+        "patch",
+        "delete"
       ],
       "allowedRoles": [
-        "contributor"
+        "contributor",
+        "anonymous"
       ]
     },
     {
