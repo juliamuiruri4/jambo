@@ -4,10 +4,11 @@
     {
       "route": "/api/*",
       "methods": [
-        "GET"
+        "get"
       ],
       "allowedRoles": [
-        "authenticated"
+        "authenticated",
+        "anonymous"
       ]
     },
     {
